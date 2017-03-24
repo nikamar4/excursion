@@ -32,3 +32,13 @@ h2{
   color: white;
   text-align: center;
 }
+
+video {
+  display: block;
+  margin: 0 auto;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+}
